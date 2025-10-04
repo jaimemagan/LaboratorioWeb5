@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  text-align: center;
+  color: #222;
+}
+
+#salida {
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  font-size: 16px;
+  line-height: 1.5em;
+}
